@@ -1,2 +1,2 @@
 one potato
-potatoes
+2 potatoes
